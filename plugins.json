@@ -6,5 +6,9 @@
   {
     "name": "Vidumali Plugin",
     "entry": "./plugins/vidumali-plugin/plugin.js"
+  },
+  {
+    "name": "Ashini-Plugin",
+    "entry": "./plugins/Ashini-plugin/plugin.js"
   }
 ]
