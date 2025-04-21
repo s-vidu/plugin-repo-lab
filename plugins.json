@@ -2,5 +2,9 @@
   {
     "name": "Sample Plugin",
     "entry": "./plugins/sample-plugin/plugin.js"
+  },
+  {
+    "name": "Vidumali Plugin",
+    "entry": "./plugins/vidumali-plugin/plugin.js"
   }
 ]
